@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# sh dnd.sh (action)
+# performs some action on the data
+
+do an action (which operates on data) and print to log
+
+./actions/$2 >> log.txt
